@@ -1,11 +1,16 @@
 ### Hi there 👋
 
-<p align="center">
+<h2>Languages</h2>
+<p align="justified">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+</p>
+
+### IDEs/Tools
+<p align="justified">
   <img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
