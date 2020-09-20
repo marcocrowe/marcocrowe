@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2>Languages</h2>
 <p align="justified">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
