@@ -2,9 +2,7 @@
 <h1>A bit about myself.</h1>
 <h2 name="learning">I’m currently learning</h2>
 <p align="justify">
-	<a href="#learning">
-		<span style="vertical-align:top; margin:4px">TypeScript</span>
-	</a>
+	<span style="vertical-align:top; margin:4px">TypeScript</span>
 </p>
 <h2 name="languages">Programming Languages</h2>
 <p align="justify">
@@ -25,12 +23,10 @@
 </p>
 <h2 name="databases">Databases</h2>
 <p align="justify">
-	<a href="#databases">
-		<span style="vertical-align:top; margin:4px">Microsoft SQL Server</span>
-		<span style="vertical-align:top; margin:4px">MySQL</span>
-		<span style="vertical-align:top; margin:4px">SQL</span>
-		<span style="vertical-align:top; margin:4px">SQLite</span>
-	</a>
+	<span style="vertical-align:top; margin:4px">SQL, </span>
+	<span style="vertical-align:top; margin:4px">Microsoft SQL Server, </span>
+	<span style="vertical-align:top; margin:4px">MySQL, </span>
+	<span style="vertical-align:top; margin:4px">SQLite</span>
 </p>
 <h2 name="frameworks">Frameworks</h2>
 <p align="justify">
