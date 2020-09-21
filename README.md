@@ -30,8 +30,8 @@
 </p>
 <h2 name="frameworks">Frameworks</h2>
 <p align="justify">
+	<span style="vertical-align:top; margin:4px">ASP.NET, </span>
 	<a href="#frameworks">
-		<span style="vertical-align:top; margin:4px">ASP.NET, </span>
 		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px" />
 		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px" />
 		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/frameworks/nodejs_larger.svg" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px" />
@@ -64,8 +64,8 @@
 </p>
 <h2 name="interests">Areas of Interest</h2>
 <p align="justify">
-	<a href="#interests">
 		<span style="vertical-align:top; margin:4px">Code Standards Quality, </span>
+	<a href="#interests">
 		<img src="https://github.com/markcrowe-com/coloredbadges/raw/master/svg/dev/misc/ai.svg" alt="AI" style="vertical-align:top; margin:6px 4px" />
 		<img src="https://github.com/markcrowe-com/coloredbadges/raw/master/svg/dev/misc/iot.svg" alt="IOT" style="vertical-align:top; margin:6px 4px" />
 	</a>
