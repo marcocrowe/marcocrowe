@@ -2,7 +2,7 @@
 <h1>A bit about myself.</h1>
 <h2 name="learning">I’m currently learning</h2>
 <p align="justify">
-	<span style="vertical-align:top; margin:4px">TypeScript</span>
+	<span style="vertical-align:center; margin:4px">TypeScript</span>
 </p>
 <h2 name="languages">Programming Languages</h2>
 <p align="justify">
@@ -30,16 +30,16 @@
 </p>
 <h2 name="frameworks">Frameworks</h2>
 <p align="justify">
-	<span style="vertical-align:top; margin:4px">ASP.NET, </span>
+	<span style="vertical-align:center; margin:4px">ASP.NET, </span>
 	<a href="#frameworks">
-		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px" />
-		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px" />
-		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/frameworks/nodejs_larger.svg" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px" />
-		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px" />
-		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/frameworks/unity.svg" alt="unity" style="vertical-align:top; margin:6px 4px" />
-		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/frameworks/wpf.svg" alt="wpf" style="vertical-align:top; margin:6px 4px" />
-		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/frameworks/xamarin_android.svg" alt="xamarin_android" style="vertical-align:top; margin:6px 4px" />
-		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/frameworks/xamarin_forms.svg" alt="xamarin_forms" style="vertical-align:top; margin:6px 4px" />
+		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:center; margin:6px 4px" />
+		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:center; margin:6px 4px" />
+		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/frameworks/nodejs_larger.svg" alt="nodejs_larger" style="vertical-align:center; margin:6px 4px" />
+		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:center; margin:6px 4px" />
+		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/frameworks/unity.svg" alt="unity" style="vertical-align:center; margin:6px 4px" />
+		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/frameworks/wpf.svg" alt="wpf" style="vertical-align:center; margin:6px 4px" />
+		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/frameworks/xamarin_android.svg" alt="xamarin_android" style="vertical-align:center; margin:6px 4px" />
+		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/frameworks/xamarin_forms.svg" alt="xamarin_forms" style="vertical-align:center; margin:6px 4px" />
 	</a>
 </p>
 <h2 name="ides">IDEs</h2>
