@@ -70,7 +70,7 @@
 		<img src="https://github.com/markcrowe-com/coloredbadges/raw/master/svg/dev/misc/iot.svg" alt="IOT" style="vertical-align:top; margin:6px 4px" />
 	</a>
 </p>
-
+<!--The Gitpod shield code below requires a blank line before it.-->
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/markcrowe-com/markcrowe-com)
 
 <!--
