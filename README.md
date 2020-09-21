@@ -27,7 +27,7 @@
 <p align="justify">
 	<a href="#tools">
 		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px" />
-		<img src="/coloredbadges/raw/master/svg/dev/tools/visualstudio.svg" alt="visualstudio" style="max-width:100%;" />
+		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/tools/visualstudio.svg" alt="visualstudio" style="max-width:100%;" />
 		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px" />
 	</a>
 </p>
