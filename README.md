@@ -12,21 +12,22 @@
 		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top; margin:4px" />
 		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/php.svg" alt="PHP" style="vertical-align:top; margin:4px" />
 		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px" />
+		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/php.svg" alt="PHP" style="vertical-align:top; margin:4px" />
 	</a>
 </p>
-<h2 name="weblanguages">Web Languages</h2>
+<h2 name="weblanguages">Client Web Languages</h2>
 <p align="justify">
 	<a href="#weblanguages">
-		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top; margin:4px" />
 		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px" />
 		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/js.svg" alt="Javascript" style="vertical-align:top; margin:4px" />
-		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/php.svg" alt="PHP" style="vertical-align:top; margin:4px" />
+		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top; margin:4px" />
 	</a>
 </p>
 <h2 name="tools">IDEs/Tools</h2>
 <p align="justify">
 	<a href="#tools">
 		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px" />
+		<img src="/markcrowe-com/coloredbadges/raw/master/svg/dev/tools/visualstudio.svg" alt="visualstudio" style="max-width:100%;" />
 		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px" />
 	</a>
 </p>
