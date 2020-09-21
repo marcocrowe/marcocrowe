@@ -23,12 +23,18 @@
 		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top; margin:4px" />
 	</a>
 </p>
-<h2 name="tools">IDEs/Tools</h2>
+<h2 name="tools">IDEs / Tools</h2>
 <p align="justify">
 	<a href="#tools">
-		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px" />
-		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/tools/visualstudio.svg" alt="visualstudio" style="max-width:100%;" />
-		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px" />
+		<img src="https://github.com/markcrowe-com/coloredbadges/raw/master/svg/dev/tools/visualstudio.svg" alt="Visual Studio" style="vertical-align:top; margin:6px 4px;" />
+		<img src="https://github.com/markcrowe-com/coloredbadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code" style="vertical-align:top; margin:6px 4px;" />
+		<img src="https://github.com/markcrowe-com/ColoredBadges/raw/master/svg/dev/tools/android_studio.svg" alt="Android Studio" style="vertical-align:top; margin:6px 4px;" />
+		<img src="https://github.com/markcrowe-com/ColoredBadges/raw/master/svg/dev/tools/jetbrains_intellij.svg" alt="Jetbrains IntelliJ" style="vertical-align:top; margin:6px 4px;" />
+		<img src="https://github.com/markcrowe-com/ColoredBadges/raw/master/svg/dev/tools/linqpad.svg" alt="Linqpad" style="vertical-align:top; margin:6px 4px;" />
+		<img src="https://github.com/markcrowe-com/ColoredBadges/raw/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px" />
+    		<img src="https://github.com/markcrowe-com/ColoredBadges/raw/master/svg/dev/services/nuget.svg" alt="NuGet" style="vertical-align:top; margin:6px 4px" />
+		<img src="https://github.com/markcrowe-com/ColoredBadges/raw/master/svg/dev/services/office_365.svg" alt="Office 365" style="vertical-align:top; margin:6px 4px" />
+		<img src="https://github.com/markcrowe-com/coloredbadges/raw/master/svg/dev/misc/chrome.svg" alt="Chrome" style="vertical-align:top; margin:6px 4px;" />
 	</a>
 </p>
 
