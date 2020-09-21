@@ -2,16 +2,25 @@
 <h2 name="learning">I’m currently learning</h2>
 <p align="justify">
 	<a href="#learning">
-		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px" />
+		<span style="vertical-align:top; margin:4px">TypeScript</span>
 	</a>
 </p>
 <h2 name="languages">Languages</h2>
 <p align="justify">
 	<a href="#languages">
-		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px" />
-		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px" />
-		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px" />
-		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px" />
+		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/csharp.svg" alt="C#" style="vertical-align:top; margin:4px" />
+		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top; margin:4px" />
+		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/php.svg" alt="PHP" style="vertical-align:top; margin:4px" />
+		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px" />
+	</a>
+</p>
+<h2 name="weblanguages">Web Languages</h2>
+<p align="justify">
+	<a href="#weblanguages">
+		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top; margin:4px" />
+		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px" />
+		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/js.svg" alt="Javascript" style="vertical-align:top; margin:4px" />
+		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/php.svg" alt="PHP" style="vertical-align:top; margin:4px" />
 	</a>
 </p>
 <h2 name="tools">IDEs/Tools</h2>
