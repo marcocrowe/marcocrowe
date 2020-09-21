@@ -71,8 +71,8 @@
 	</a>
 </p>
 <!--The Gitpod shield code below requires a blank line before it.-->
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/markcrowe-com/markcrowe-com)
 
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/markcrowe-com/markcrowe-com)
 <!--
 **markcrowe-com/markcrowe-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
