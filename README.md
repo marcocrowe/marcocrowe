@@ -44,9 +44,9 @@
 		<img src="https://github.com/markcrowe-com/ColoredBadges/raw/master/svg/dev/tools/jetbrains_intellij.svg" alt="Jetbrains IntelliJ" style="vertical-align:top; margin:6px 4px;" />
 	</a>
 </p>
-<h2 name="ides">IDEs</h2>
+<h2 name="tools">Tools</h2>
 <p align="justify">
-	<a href="#ides">
+	<a href="#tools">
 		<img src="https://github.com/markcrowe-com/ColoredBadges/raw/master/svg/dev/tools/linqpad.svg" alt="Linqpad" style="vertical-align:top; margin:6px 4px;" />
 		<img src="https://github.com/markcrowe-com/ColoredBadges/raw/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px" />
     		<img src="https://github.com/markcrowe-com/ColoredBadges/raw/master/svg/dev/services/nuget.svg" alt="NuGet" style="vertical-align:top; margin:6px 4px" />
