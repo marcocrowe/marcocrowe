@@ -1,4 +1,5 @@
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<h1>A bit about myself.</h1>
 <h2 name="learning">I’m currently learning</h2>
 <p align="justify">
 	<a href="#learning">
@@ -20,6 +21,15 @@
 		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px" />
 		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/js.svg" alt="Javascript" style="vertical-align:top; margin:4px" />
 		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top; margin:4px" />
+	</a>
+</p>
+<h2 name="databases">Databases</h2>
+<p align="justify">
+	<a href="#databases">
+		<span style="vertical-align:top; margin:4px">Microsoft SQL Server</span>
+		<span style="vertical-align:top; margin:4px">MySQL</span>
+		<span style="vertical-align:top; margin:4px">SQL</span>
+		<span style="vertical-align:top; margin:4px">SQLite</span>
 	</a>
 </p>
 <h2 name="frameworks">Frameworks</h2>
