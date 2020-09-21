@@ -64,7 +64,7 @@
 </p>
 <h2 name="interests">Areas of Interest</h2>
 <p align="justify">
-		<span style="vertical-align:top; margin:4px">Code Standards Quality, </span>
+		<span style="vertical-align:top; margin:4px">Code Standards and Quality, </span>
 	<a href="#interests">
 		<img src="https://github.com/markcrowe-com/coloredbadges/raw/master/svg/dev/misc/ai.svg" alt="AI" style="vertical-align:top; margin:6px 4px" />
 		<img src="https://github.com/markcrowe-com/coloredbadges/raw/master/svg/dev/misc/iot.svg" alt="IOT" style="vertical-align:top; margin:6px 4px" />
