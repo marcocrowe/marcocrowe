@@ -2,24 +2,24 @@
 <h1>A bit about myself.</h1>
 <h2 name="learning">I’m currently learning</h2>
 <p align="left">
-	<span style="vertical-align:center; margin:4px">TypeScript</span>
+	<a href="https://github.com/markcrowe-com?tab=repositories&language=typescript" style="vertical-align:center; margin:4px">TypeScript</a>
 </p>
 <h2 name="languages">Programming Languages</h2>
 <p align="left">
 	<a href="#languages">
-		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/csharp.svg" alt="C#" style="vertical-align:top; margin:4px" />
-		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top; margin:4px" />
-		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/php.svg" alt="PHP" style="vertical-align:top; margin:4px" />
-		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px" />
+		<a href="https://github.com/markcrowe-com?tab=repositories&language=c%23"><img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/csharp.svg" alt="C#" style="vertical-align:top; margin:4px" /></a>
+		<a href="https://github.com/markcrowe-com?tab=repositories&language=java"><img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top; margin:4px" /></a>
+		<a href="https://github.com/markcrowe-com?tab=repositories&language=php"><img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/php.svg" alt="PHP" style="vertical-align:top; margin:4px" /></a>
+		<a href="https://github.com/markcrowe-com?tab=repositories&language=python"><img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px" /></a>
 	</a>
 </p>
 <h2 name="weblanguages">Client Web Languages</h2>
 <p align="left">
 	<a href="#weblanguages">
-		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px" />
-		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/js.svg" alt="Javascript" style="vertical-align:top; margin:4px" />
-		<img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top; margin:4px" />
-	</a>
+		<a href="https://github.com/markcrowe-com?tab=repositories&language=html"><img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px" /></a>
+		<a href="https://github.com/markcrowe-com?tab=repositories&language=javascript"><img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/js.svg" alt="Javascript" style="vertical-align:top; margin:4px" /></a>
+		<a href="https://github.com/markcrowe-com?tab=repositories&language=css"><img src="https://raw.githubusercontent.com/markcrowe-com/coloredbadges/master/svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top; margin:4px" />
+	</a></a>
 </p>
 <h2 name="databases">Databases</h2>
 <p align="left">
