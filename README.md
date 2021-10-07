@@ -1,9 +1,5 @@
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <h1>A bit about myself.</h1>
-<h2 name="learning">I’m currently learning</h2>
-<p align="left">
-	<a href="https://github.com/markcrowe-com?tab=repositories&language=typescript" style="vertical-align:center; margin:4px">TypeScript</a>
-</p>
 <h2 name="languages">Programming Languages</h2>
 <p align="left">
 	<a href="#languages">
