@@ -1,4 +1,4 @@
-# A few programming languages I know and teach
+**A few topics I teach**
 
 <a href="https://github.com/marcocrowe?tab=repositories&language=c%23"><img src="https://raw.githubusercontent.com/marcocrowe/coloredbadges/master/svg/dev/languages/csharp.svg" alt="C#" style="vertical-align:top; margin:4px" /></a>
 <a href="https://github.com/marcocrowe?tab=repositories&language=java"><img src="https://raw.githubusercontent.com/marcocrowe/coloredbadges/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top; margin:4px" /></a>
