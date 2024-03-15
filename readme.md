@@ -17,6 +17,3 @@
 	<img src="https://github.com/marcocrowe/coloredbadges/raw/master/svg/dev/misc/ai.svg" alt="AI" style="vertical-align:top; margin:6px 4px" />
 	<img src="https://github.com/marcocrowe/coloredbadges/raw/master/svg/dev/misc/iot.svg" alt="IOT" style="vertical-align:top; margin:6px 4px" />
 </p>
-<!--The Gitpod shield code below requires a blank line before it.-->
-
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/marcocrowe/marcocrowe)
